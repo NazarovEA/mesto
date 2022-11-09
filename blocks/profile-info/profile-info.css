@@ -1,4 +1,4 @@
-.profile__profile-info {
+.profile-info {
     display: flex;
     flex-wrap: wrap;
     max-width: 336px;
@@ -8,7 +8,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .profile__profile-info {
+    .profile-info {
     max-width: 282px;
     margin: 22.25px auto 0;
 

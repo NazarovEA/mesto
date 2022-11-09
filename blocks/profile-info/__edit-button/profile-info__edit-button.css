@@ -1,4 +1,4 @@
-.profile__profile-info_edit-button {
+.profile-info__edit-button {
     display: flex;
     min-width: 24px;
     min-height: 24px;
@@ -11,7 +11,7 @@
     align-self: flex-end;
 }
 @media screen and (max-width: 320px) {
-    .profile__profile-info_edit-button {
+    .profile-info__edit-button {
         margin-right: auto;
         margin-left: 18px;        
     }

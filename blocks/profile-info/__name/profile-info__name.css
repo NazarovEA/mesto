@@ -1,4 +1,4 @@
-.profile__profile-info_name {
+.profile-info__name {
     max-width: 294px;
     margin-top: 0;
     margin-bottom: 0;
@@ -12,7 +12,7 @@
     white-space: nowrap;
 }
 @media screen and (max-width: 650px) {
-        .profile__profile-info_name {
+        .profile-info__name {
         max-width: 189px;
         margin-left: 46px;
         margin-right: auto;

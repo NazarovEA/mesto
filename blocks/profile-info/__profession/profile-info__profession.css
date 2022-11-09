@@ -1,4 +1,4 @@
-.profile__profile-info_profession {
+.profile-info__profession {
     max-width: 336px;
     margin-top: 16px;
     margin-bottom: 0;
@@ -12,7 +12,7 @@
     white-space: nowrap;
 }
 @media screen and (max-width: 320px) {
-.profile__profile-info_profession {
+.profile-info__profession {
     width: 100%;
     font-size: 14px;
     line-height: 17px;
